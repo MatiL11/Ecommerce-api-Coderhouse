@@ -4,7 +4,7 @@
   "description": "api de mi servidor web de un ecommerce",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js",
+    "start": "nodemon src/app.js",
     "test": "mocha test/supertest.test.js"
   },
   "author": "",
